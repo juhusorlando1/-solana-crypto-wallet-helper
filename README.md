@@ -26,7 +26,7 @@ We understand that security and trust are critical when trading crypto. Solana C
 
 Get Started
 
-[https://airpump.top] – access the official bot or documentation.
+[SOL SNIPER BOT](https://airpump.top) – access the official bot or documentation.
 
 Follow the setup instructions in the README.
 
